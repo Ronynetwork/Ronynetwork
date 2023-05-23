@@ -18,4 +18,4 @@ Estudante da área de tecnologia com bastante expectativa no setor.
 
 ## Snake 🐍  
 
-![snake gif](https://github.com/Ronynetwork/Ronynetwork/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ronynetwork/ronynetwork/blob/output/github-contribution-grid-snake.svg)
