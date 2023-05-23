@@ -16,4 +16,4 @@
 <div><br/>
 Estudante da área de tecnologia com bastante expectativa no setor.
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ronynetwork/ronynetwork/blob/output/github-contribution-grid-snake.svg)
