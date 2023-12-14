@@ -12,10 +12,10 @@ src="https://raw.githubusercontent.com/gist/Ronynetwork/d5becf10e172aa880d25c676
 
 ### **Another Social Medias** 📱
 <a href="https://www.linkedin.com/in/ronyldo-oliveira/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-_rony.oliveira_-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Ronyldo Oliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/_rony.oliveira_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-_rony.oliveira_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-rony.oliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
  
