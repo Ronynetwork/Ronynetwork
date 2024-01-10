@@ -1,6 +1,6 @@
 <img align="right" height="550em" padding="1"
 src="https://raw.githubusercontent.com/gist/Ronynetwork/d5becf10e172aa880d25c676935fb95f/raw/d6e6c2922626d0473a01cc2b66f3b06c5f0f4934/githubcard.svg"/>
-<h1 align="left">Hi 👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ronyldo Oliveira</h1> <br>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ronyldo Oliveira</h1> <br>
 
 - 🔥 Python application developer seeking improvement with the language 
 <br><br>
