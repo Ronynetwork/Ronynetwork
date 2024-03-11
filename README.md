@@ -29,3 +29,10 @@ src="https://raw.githubusercontent.com/gist/Ronynetwork/d5becf10e172aa880d25c676
 <img align="center" alt= "Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   
 <div><br/>
+
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ronynetwork&show_icons=true&theme=vision-friendly-dark" alt="Ronynetwork's stats"/>
+</p>
