@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/gist/Ronynetwork/d5becf10e172aa880d25c676
 <img align="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   &nbsp;
 <img align="center" alt= "Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>   &nbsp;
 <img align="center" alt= "Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  &nbsp;
-<img align="center" alt= "Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  &nbsp;
+<img align="center" alt= "Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <br><br>
 <p align='center'>
   <img align="center" alt= "Jenkins" src="https://img.shields.io/badge/Jenkins-c26d18?style=for-the-badge&logo=jenkins&logoColor=black"/>  &nbsp;&nbsp;
